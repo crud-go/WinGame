@@ -1,0 +1,7 @@
+.vs
+Debug/
+packages/
+UnitTest/
+x64/
+Dirct2dTest/Dirct2dTest/Debug
+Dirct2dTest/Dirct2dTest/x64
